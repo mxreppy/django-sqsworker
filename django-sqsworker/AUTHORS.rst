@@ -2,12 +2,12 @@
 Credits
 =======
 
-Development Lead
+repo owner
 ----------------
 
-* Mikey Reppy <mike.reppy@nrg.com>
+* Mikey Reppy <mike.reppy@nrg.com> (also mgpr@abacalab.com)
 
 Contributors
 ------------
 
-None yet. Why not be the first?
+* Ethan McCreadie <Ethan.McCreadie@nrg.com> -- this code was liberally stolen from a version he wrote
