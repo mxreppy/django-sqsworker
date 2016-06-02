@@ -46,7 +46,7 @@ setup(
     description="""SQS receiver for django""",
     long_description=readme + '\n\n' + history,
     author='Mikey Reppy',
-    author_email='mike.reppy@nrg.com',
+    author_email='mgpr@abacalab.com',
     url='https://github.com/mxreppy/django-sqsworker',
     packages=[
         'sqsworker',
@@ -66,9 +66,6 @@ setup(
         'Intended Audience :: Developers',
         'License :: OSI Approved :: BSD License',
         'Natural Language :: English',
-        'Programming Language :: Python :: 2',
-        'Programming Language :: Python :: 2.7',
-        'Programming Language :: Python :: 3',
         'Programming Language :: Python :: 3.3',
         'Programming Language :: Python :: 3.4',
         'Programming Language :: Python :: 3.5',

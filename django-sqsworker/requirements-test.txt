@@ -1,7 +1,9 @@
 django>=1.8.5
-coverage
-mock>=1.0.1
 flake8>=2.1.0
 tox>=1.7.0
 
 # Additional test requirements go here
+moto>=0.4.24
+pytest>=2.8.2
+pytest-cov>=2.2.0
+pytest-django>=2.9.0
